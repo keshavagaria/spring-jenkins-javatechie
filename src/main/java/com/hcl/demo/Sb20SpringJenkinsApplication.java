@@ -17,8 +17,9 @@ public class Sb20SpringJenkinsApplication {
 		logger.info("Application is started...");
 	}
 	public static void main(String[] args) {
-		logger.info("Main Method is executing...");
+	
 		SpringApplication.run(Sb20SpringJenkinsApplication.class, args);
+		logger.info("Main Method is executing...");
 	}
 
 }

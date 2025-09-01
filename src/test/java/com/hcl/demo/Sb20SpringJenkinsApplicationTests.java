@@ -15,6 +15,8 @@ class Sb20SpringJenkinsApplicationTests {
 	@Test
 	void contextLoads() {
 		logger.info("Test Case Executing...");
+		logger.info("Test Case Executing again...");
+		
 		assertEquals(true, true);
 	}
 
