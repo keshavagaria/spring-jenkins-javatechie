@@ -13,7 +13,7 @@ class Sb20SpringJenkinsApplicationTests {
 	static Logger logger = LoggerFactory.getLogger(Sb20SpringJenkinsApplication.class);
 	
 	@Test
-	void contextLoads() {
+	 contextLoads() {
 		logger.info("Test Case Executing...");
 		logger.info("Test Case Executing again and again...");
 		
